@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 300,
+  "experience": 0.3,
+  "group": "Abyssal Whispers: Voidbound Mischief",
+  "ingredient": {
+    "item": "ratsmischief:clothed_ingot"
+  },
+  "result": "tutorialmod:void_cloth"
+}
